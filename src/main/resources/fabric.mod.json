@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "charm-collection-fix",
+	"version": "${version}",
+	"name": "Charm Collection Fix",
+	"description": "Makes Charm's Collection enchantment obtainable via Villager trading and the Enchanting Table.",
+	"authors": [
+		"TimVinci"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/charm-collection-fix",
+        "sources": "https://github.com/TimVincii/Charm-Collection-Fix",
+        "issues": "https://github.com/TimVincii/Charm-Collection-Fix/issues"
+    },
+	"license": "MIT",
+	"icon": "assets/charm-collection-fix/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "me.timvinci.charmcollectionfix.CharmCollectionFix"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": ">=0.109.0"
+	}
+}

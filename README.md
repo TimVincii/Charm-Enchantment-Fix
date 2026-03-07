@@ -1,2 +1,18 @@
-# collection-trade-fix
-Makes Charm's Collection enchantment obtainable via Villager trading.
+# Charm Collection Fix
+
+This simple mod fixes Charm's **Collection** enchantment not being obtainable via **Villager trading** or the **Enchanting Table**.
+
+It does so by adding a `tradeable.json` and an `in_enchanting_table.json` tag file as resources.
+
+### Background
+This is directed towards [this fork](https://modrinth.com/mod/charm-forked) of **Charm**, specifically tested on `charm-fabric-1.21.1-7.0.42-forked` as shipped with **BMC3 v43** for Fabric 1.21.1.
+
+In 1.21.1, the **Collection** enchantment is no longer obtainable via Villager trading or the Enchanting Table — both of which worked fine in 1.20.1 (verified by testing).
+
+I'm assuming this is an unintentional oversight introduced during the 1.21 enchantment system overhaul, with [this issue](https://github.com/LunaPixelStudios/Better-MC/issues/2133) and [this discussion](https://www.reddit.com/r/betterminecraft/comments/1ppnp4j/collection_enchantment/) supporting that claim.
+
+### Usage
+Drop this mod into your mods folder alongside **Charm**. This is a **server-side only** mod — clients don't need it.
+
+### Credits
+Icon uses the **Collection** enchantment book texture from [Beautiful Enchanted Books](https://modrinth.com/resourcepack/beautiful-enchanted-books).
