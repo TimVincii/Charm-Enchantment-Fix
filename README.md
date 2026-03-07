@@ -12,7 +12,7 @@ In 1.21.1, the **Collection** enchantment is no longer obtainable via Villager t
 I'm assuming this is an unintentional oversight introduced during the 1.21 enchantment system overhaul, with [this issue](https://github.com/LunaPixelStudios/Better-MC/issues/2133) and [this discussion](https://www.reddit.com/r/betterminecraft/comments/1ppnp4j/collection_enchantment/) supporting that claim.
 
 ### Usage
-Drop this mod into your mods folder alongside **Charm**. This is a **server-side only** mod — clients don't need it.
+Requires [**Fabric API**](https://modrinth.com/mod/fabric-api). Drop this mod into your mods folder alongside **Charm**. This is a **server-side only** mod — clients don't need it.
 
 ### Credits
 Icon uses the **Collection** enchantment book texture from [Beautiful Enchanted Books](https://modrinth.com/resourcepack/beautiful-enchanted-books).
