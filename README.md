@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/bb53d94f-0cb0-4c62-b400-132cda86ad7f" />
+
 # Charm Enchantment Fix
 
 This simple mod fixes Charm's **Collection** and **Aerial Affinity** enchantments not being obtainable via **Villager trading** or the **Enchanting Table**.
