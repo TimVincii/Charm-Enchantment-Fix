@@ -7,6 +7,7 @@
   ],
   "replace": false,
   "values": [
-    "charm:collection"
+    "charm:collection",
+    "charm:aerial_affinity"
   ]
 }

@@ -1,23 +1,23 @@
 {
 	"schemaVersion": 1,
-	"id": "charm-collection-fix",
+	"id": "charm-enchantment-fix",
 	"version": "${version}",
-	"name": "Charm Collection Fix",
-	"description": "Makes Charm's Collection enchantment obtainable via Villager trading and the Enchanting Table.",
+	"name": "Charm Enchantment Fix",
+    "description": "Fixes Charm's enchantments not being obtainable via Villager trading and the Enchanting Table.",
 	"authors": [
 		"TimVinci"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/project/charm-collection-fix",
-        "sources": "https://github.com/TimVincii/Charm-Collection-Fix",
-        "issues": "https://github.com/TimVincii/Charm-Collection-Fix/issues"
+		"homepage": "https://modrinth.com/project/charm-enchantment-fix",
+        "sources": "https://github.com/TimVincii/Charm-Enchantment-Fix",
+        "issues": "https://github.com/TimVincii/Charm-Enchantment-Fix/issues"
     },
 	"license": "MIT",
-	"icon": "assets/charm-collection-fix/icon.png",
+	"icon": "assets/charm-enchantment-fix/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "me.timvinci.charmcollectionfix.CharmCollectionFix"
+          "me.timvinci.charmenchantmentfix.CharmEnchantmentFix"
 		]
 	},
 	"depends": {
